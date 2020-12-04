@@ -1,0 +1,18 @@
+Origin: Spokane, WA
+Waypoint: Yellowstone National Park, WY   Distance: 699.215 miles   Days there: 2
+Waypoint: Grand Teton National Park, WY   Distance: 49.2809 miles   Days there: 1
+Waypoint: Salt Lake City, UT   Distance: 284.5 miles   Days there: 1
+Waypoint: Bryce Canyon National Park, UT   Distance: 268.162 miles   Days there: 1
+Waypoint: Grand Canyon, AZ   Distance: 283.48 miles   Days there: 1
+Waypoint: Surprise, AZ   Distance: 226.732 miles   Days there: 2
+Waypoint: Carlsbad Caverns National Park, NM   Distance: 600.25 miles   Days there: 1
+Waypoint: San Antonio, TX   Distance: 460.878 miles   Days there: 3
+Waypoint: New Orleans, LA   Distance: 543.303 miles   Days there: 1
+Waypoint: Panama City, FL   Distance: 327.492 miles   Days there: 1
+Total waypoints on trip: 12.
+Total miles traveled on roadtrip: 3989 miles.
+Total days spent on roadtrip: 15
+The greatest distance between waypoints is 699 miles between Spokane, WA and Yellowstone National Park, WY
+The waypoint with the longest number of days spent is San Antonio, TX and you will spend 3 days there.
+The average number of days spent at each waypoint is: 1.25
+The average number of miles between waypoints is: 332.417
